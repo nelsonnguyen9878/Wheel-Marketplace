@@ -17,13 +17,13 @@ Features
 - Responsive design (mobile-friendly)
 
 Tech Stack (TBD)
-- Layer	                  Tech
-- Frontend	              React, Axios, React Router
-- Backend	                Node.js, Express
-- Database	              MongoDB (Atlas)
-- Auth	                  JWT, bcrypt
-- Image Upload	          Cloudinary
-- Deployment	            Vercel (client), Render or Railway (server) TBD
+- Layer-------------------Tech
+- Frontend----------------React, Axios, React Router
+- Backend-----------------Node.js, Express
+- Database----------------MongoDB (Atlas)
+- Auth--------------------JWT, bcrypt
+- Image Upload------------Cloudinary
+- Deployment--------------Vercel (client), Render or Railway (server) TBD
 
 
 Setup Instructions
