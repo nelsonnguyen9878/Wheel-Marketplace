@@ -1,6 +1,6 @@
 # Wheel-Marketplace
 
-🛞 Wheel Marketplace
+Wheel Marketplace
 A full-stack web application where users can post, browse, and manage listings for wheels (rims) for sale. Built using the MERN stack (MongoDB, Express, React, Node.js).
 
 wheel-marketplace/
