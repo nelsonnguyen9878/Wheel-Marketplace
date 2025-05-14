@@ -4,10 +4,10 @@
 A full-stack web application where users can post, browse, and manage listings for wheels (rims) for sale. Built using the MERN stack (MongoDB, Express, React, Node.js).
 
 wheel-marketplace/
-├── frontend/     # React frontend
-├── backend/     # Express backend
-├── .env        # Environment variables (not tracked by Git)
-└── README.md
+- ├── frontend/     # React frontend
+- ├── backend/     # Express backend
+- ├── .env        # Environment variables (not tracked by Git)
+- └── README.md
 
 Features
 - User authentication (register/login)
