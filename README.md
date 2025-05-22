@@ -19,7 +19,7 @@ Features
 Tech Stack (TBD)
 - Layer-------------------Tech
 - Frontend----------------React, Axios, React Router
-- Backend-----------------Node.js, Express
+- Backend-----------------Node.js, Express, cors, socket.io
 - Database----------------MongoDB (Atlas)
 - Auth--------------------JWT, bcrypt
 - Image Upload------------Cloudinary
@@ -33,6 +33,7 @@ Prerequisites
 - Cloudinary account
 
 Roadmap / TODOs
+- Connect backend to database
 - Messaging between buyers/sellers
 - Reviews and ratings
 - Location-based filtering
